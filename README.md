@@ -791,6 +791,10 @@ The goal is not just to memorize Spring Boot annotations or JWT terminology. It 
 
 **Project status:** Learning project. Review the code, configuration, and tests before describing it as production-ready.
 
-**Maintainer:** Anshu Kumar
+---
 
-**Repository:** https://github.com/YOUR_USERNAME/secure-auth-fullstack
+**Maintained with passion by Anshu Kumar**
+
+*I don't just write code. I build, break, learn, and rebuild.*
+
+**⚡ AK | Code. Create. Conquer.**
